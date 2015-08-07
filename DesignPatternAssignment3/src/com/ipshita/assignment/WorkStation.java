@@ -27,6 +27,7 @@ public class WorkStation extends LabResource {
 		this.costOfMaintenancePerYear = costOfMaintenancePerYear;
 
 		System.out.println(WorkStation.class.getSimpleName() + Constants.COLON + resourceId + Constants.CREATED);
+		System.out.println("first change ");
 	}
 
 	/* +
